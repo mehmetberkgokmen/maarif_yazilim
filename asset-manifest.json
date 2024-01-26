@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maarif_yazilim/static/css/main.f855e6bc.css",
+    "main.js": "/maarif_yazilim/static/js/main.17cb7567.js",
+    "static/js/787.d4aba7ab.chunk.js": "/maarif_yazilim/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/maarif_yazilim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/maarif_yazilim/index.html",
+    "main.f855e6bc.css.map": "/maarif_yazilim/static/css/main.f855e6bc.css.map",
+    "main.17cb7567.js.map": "/maarif_yazilim/static/js/main.17cb7567.js.map",
+    "787.d4aba7ab.chunk.js.map": "/maarif_yazilim/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.17cb7567.js"
+  ]
+}
